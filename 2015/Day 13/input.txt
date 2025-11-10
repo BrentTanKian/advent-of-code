@@ -54,4 +54,3 @@ Mallory would gain 91 happiness units by sitting next to David.
 Mallory would lose 66 happiness units by sitting next to Eric.
 Mallory would lose 75 happiness units by sitting next to Frank.
 Mallory would lose 99 happiness units by sitting next to George.
-test
